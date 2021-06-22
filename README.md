@@ -4,6 +4,7 @@ Connect 4 in python
 Acesta este jocul Connect 4. Atasez un link cu regulile jocului: https://www.youtube.com/watch?v=utXzIFEVPjA
 
 CUM SE JOACA:
+- Se ruleaza Connect4.py
 - Se afiseaza a carui jucator este randul (It's player's x turn)
 - Se scrie randul (randul 0 - primul rand...randul 5 - al 6-lea rand) urmat de apasarea tastei Enter si coloana (coloana 0 - prima coloana...coloana 6 - a 7-a coloana) urmata de apasarea tastei Enter unde se doreste introducerea piesei
 - Se apasa Enter si se observa pe tabla pozitia piesei introduse
